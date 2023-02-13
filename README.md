@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Bu repo Kodluyoruz Eğitimi kapsamında [Patika.dev](https://www.patika.dev/tr) Veri Bilimi Patikaları içerisinde  Başlangıç Seviye Veri Bilimi Patikasında GIT dersi ödevi için açtığım ilk repodur. İçerisinde bir adet README dosyası, bir adet de index.html dosyası içerir.
-![](https://www.hizliresim.com/7tk4nyf)
+![](https://raw.githubusercontent.com/kasimcayci/kodluyoruzilkrepo/main/github.jpg)
 ## Installation
 Öncelikle projeyi klonlayın https://github.com/kasimcayci/kodluyoruzilkrepo.git
 ```bash
